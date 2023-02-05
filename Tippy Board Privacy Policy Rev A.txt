@@ -1,0 +1,119 @@
+Tippy Board Privacy Policy
+
+Welcome to the Tippy Board Android mobile application (our “App”). This Privacy Policy applies to you and IndustrialDonut of Sonoma County, California, USA, (“we”, “us”, or “our”) irrespective of your country of residence or location. 
+
+With the help of this Privacy Policy, we inform you comprehensively about the processing of your Personal Data by us and the rights to which you are entitled.
+
+We are acting as the Data Controller in accordance with the California Consumer Privacy Act (“CCPA”) and the subsequent amendments from the California Privacy Rights and Enforcement Act (“CPRA”) and of course, the General Data Protection Regulation (“GDPR”). 
+
+If you have any questions about the processing of your Personal Data, please contact us using: jqwbus@gmail.com
+
+When designing the Game, we have made sure that as little as possible information that directly identifies you is collected. As however some countries including the European Union, have a broad definition of Personal Data, this policy covers it. 
+In this sense we would need to first explore the definition of Personal Data. 
+Personal Data is information that makes it possible to identify a natural person. This includes, your name, date of birth, address, telephone number, e-mail address, but also your IP address or Device Identifiers. 
+Relevant legal basis
+In accordance with the CCPA/CPRA and GDPR, the following legal basis, unless specifically described below apply to the processing of your Personal Data:
+
+•	consent,
+•	to fulfill our services and carry out contractual obligations,
+•	to fulfill our legal obligations, and
+•	to protect our legitimate interests. 
+
+Processing of Personal Data
+Personal Data may be collected in two ways, that is directly when you for example volunteer it to us or automatically for example when you install and use our Game. As indicated above we have made sure that as little as possible information that directly identifies you is collected.
+
+a)	When you play our Game
+When you launch our Game for the first time, a player number is assigned to your device. This allows the Game to associate your device with your scores. Provided that this could amount to Personal Data, the legal basis for processing is your consent and a contractual measure and the player number is deleted as soon as you uninstall the Game. 
+
+b)	When you contact us
+If you contact us, the Personal Data you transmit may include your Name, your email address and of course the content of your message. We will process the data you submit for the purpose of processing your request and replying to you. Of course, we delete the data as soon as it is no longer required for the processing of your request. The legal basis for processing is your consent, our legitimate interest in providing support and/or a contractual or precontractual measure.
+
+Automatically collected data
+a) Downloading the Game
+The Game can be downloaded from the Google Playstore a service offered by Google Inc, 1600 Amphitheatre Parkway Mountain View, CA 94043, US, if you are resident outside the EU and Google Ireland Limited ("Google"), Gordon House, Barrow Street, Dublin 4, Ireland if you are a resident within the EU and the UK. Downloading our App may also require prior registration with the Playstore and/or installation of the Playstore software.
+b) Installing the Game 
+You can use the Google service "Google Play", to install our Game. As far as we are aware, Google collects and processes the following data: License check, network access, network connection, WLAN connections, and location information. However, it cannot be ruled out that Google also transmits the information to a server in a third country. 
+c) Device information
+We or rather Google on our behalf collects information from and about the device(s) you use to access the Game, including hardware and software information such as IP address, device ID and type, device-specific and App settings and properties, App crashes, advertising IDs (AAID), information about your wireless and mobile network connection such as your service provider and signal strength; information about device sensors such as accelerometer, gyroscope, and compass.
+
+We cannot influence which Personal Data Google processes with your registration and the provision of downloads in the respective App store and App store software. The responsible party in this respect is solely Google as the operator of the Google Play Store.
+
+General Principles
+a)	Security
+We regularly monitor our systems for possible vulnerabilities and attacks and regularly review our information collection, storage, and processing practices to update our physical, technical, and organizational security measures.
+
+Further, internet-based data transmissions can always have security gaps, so that absolute protection cannot be guaranteed. And databases or data sets that include Personal Data may be breached inadvertently or through wrongful intrusion. 
+
+Upon becoming aware of a data breach, we will notify all affected individuals whose Personal Data may have been compromised, and the notice will be accompanied by a description of the action being taken to reconcile any damage as a result of the data breach. Notices will be provided as expeditiously as possible after which the breach was discovered.
+
+b)	Retention and Storage 
+We will retain your Personal Data as necessary in connection with the purposes described above and in accordance with the relevant statutory retention periods and other applicable laws, if so required.
+
+c)	Minors
+Persons under the age of 13 should not transmit any Personal Data to us without the consent of their parents or legal guardians. We do not request Personal Data from minors and children and do not knowingly collect such data or pass it on to third parties.
+
+d)	Automated decision-making
+Automated decision-making including profiling does not take place.
+
+e)	Do Not Sell
+We do not sell your Personal Data.
+
+f)	Special Category Data
+Unless specifically provided to us, we do not process Special Category Data.
+
+g)	International Transfer
+We do not transfer your Personal Data to countries outside the USA. However, and in the unlikely event we need to, we will always make sure to provide adequate protection including contractual arrangements and all reasonable technical and organizational measures.
+
+h)	Sharing and Disclosure
+We will not disclose or otherwise distribute your Personal Data to third parties unless this is a) necessary for the performance of our services, b) you have consented to the disclosure, c) or if we are legally obliged to do so e.g., by court order or if this is necessary to support criminal or legal investigations or other legal investigations or proceedings or to fulfill our legitimate interests.
+
+i)	Obligation to provide Personal Data
+You are not obliged to provide us with personal data. However, depending on the individual case as described above, you may provide certain Personal Data to us. If you do not provide us with this Personal Data, we may not be able to provide the requested service.
+
+j)	Authorizations and Access
+We may request permission to your Internet Connection and Network. If there is no Internet or Network Connection, your game data (your scores) is stored on your mobile device. The legal basis for this is the provision of our contractual obligation. You can deny the storage of game data on our servers, by disabling the Wi-Fi and mobile data of your device.
+
+Your Rights and Privileges 
+a)	Privacy rights 
+Under the CCPA and the CPRA amendment, you can exercise the following rights:
+•	Right to Know/Access
+•	Right to Delete
+•	Right to Opt-out of Sale
+•	Right to Non-Discrimination
+•	Right to Rectification
+•	Right to Limit Use and Disclosure of Sensitive Personal Data
+
+Further, California’s “Shine the Light” law (Civil Code Section 1798.83) requires us to respond to requests from California asking about the business’s practices related to disclosing Personal Data to third parties for the third parties’ direct marketing purposes. You may make a request about our collection and disclosure of your Personal Data using the contact details provided.
+
+Under the UK`s DPA and GDPR, you can exercise the following rights:
+•	Right to information
+•	Right to rectification
+•	Right to object to processing
+•	Right to deletion
+•	Right to data portability
+•	Right of objection
+•	Right to withdraw consent
+•	Right to complain to a supervisory authority
+•	Right not to be subject to a decision based solely on automated processing.
+
+b)	Updating your information
+If you believe that the information, we hold about you is inaccurate or that we are no longer entitled to use it and want to request its rectification, deletion, or object to its processing, please do so by contacting us. 
+
+c)	Withdrawing your consent 
+You can revoke consents you have given at any time by contacting us. The legality of the data processing carried out until the revocation remains unaffected by the revocation.
+
+d)	Access Request 
+In the event that you wish to make a Data Subject Access Request, you may inform us in writing of the same. We will respond to requests regarding access and correction as soon as reasonably possible. Should we not be able to respond to your request within thirty (30) days after receiving your request, we will let you know in writing within thirty (30). If we are unable to comply with your request, we will tell you why (except where we are not required to do so under the respective legal regulations mentioned above).
+
+e)	Complaint to a supervisory authority
+You have the right to complain about our processing of Personal Data to a supervisory authority responsible for data protection.  The competent data protection authority in California is: The Department of Consumer Affairs, Consumer Information Center, 1625 North Market Blvd., Suite N 112, Sacramento, CA 95834 www.dca.ca.gov 
+
+Changes 
+We may update this Privacy Policy from time to time. If we make changes to this Privacy Policy or materially change our use of your Personal Data, we will revise the Privacy Policy accordingly and also change the effective date at the end of this section. We encourage you to periodically review this Privacy Policy to be informed of how we use and protect your Personal Data. 
+
+Effective Date
+Sunday, February 5, 2023
+
+
+
+
